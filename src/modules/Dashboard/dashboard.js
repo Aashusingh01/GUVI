@@ -63,7 +63,7 @@ export class Dashboard extends Component {
                             value={currentUser[0].email} disabled/>
                         <br/>
 
-                        <Button type="submit" value="Update Profile">Profile Update kerein</Button>
+                        <Button type="submit" value="Update Profile">Profile Update</Button>
                     </form>
 
                 </div>
