@@ -36,7 +36,7 @@ export class Dashboard extends Component {
         return (
             <div className="Dashboard">
                 <h2>
-                    Aapka Apna Dashboard</h2>
+                   Dashboard</h2>
                 <div className="image-div">
                     <Image id="avatar-img" src={Avatar} alt="avatar" circle responsive/>
                 </div>
